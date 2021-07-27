@@ -13,5 +13,4 @@ namespace Day20_MoodAnalyzer
             Console.WriteLine("Currently you are in: " + moodAnalyser.AnalyseMood());
         }
     }
-
 }

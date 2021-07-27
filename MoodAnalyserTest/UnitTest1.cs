@@ -27,7 +27,6 @@ namespace MoodAnalyserTest
             //Assert
             Assert.AreEqual(expected, actual);
 
-
         }
     }
 }
