@@ -19,5 +19,4 @@ namespace Day20_MoodAnalyzer
                 return "Happy Mood";
         }
     }
-
 }
